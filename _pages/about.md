@@ -2,18 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 東京理科大学総域理工学部経営システム工学科 安井研究室
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>278-8510</p>
+    <p>千葉県野田市山崎2641</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true #お知らせの表示
+selected_papers: true # 主要論文
 social: true # includes social icons at the bottom of the page
 
 announcements:
