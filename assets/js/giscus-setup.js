@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "cehl-kurage/labhp.github.io",
+    "data-repo": "cehl-kurage/labhp",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
