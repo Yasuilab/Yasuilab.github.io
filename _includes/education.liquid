@@ -1,0 +1,20 @@
+<div class="col mb-3">
+  <a href="{% if education.redirect %}{{ education.redirect }}{% else %}{{ education.url | relative_url }}{% endif %}">
+    <div class="card h-100 hoverable">
+      {% if education.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=education.img
+          sizes="250px"
+          alt="education thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ education.title }}</h2>
+        <p class="card-text">{{ education.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>
