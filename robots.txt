@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cehl-kurage.github.io/sitemap.xml
+Sitemap: https://labhp.github.io/sitemap.xml
