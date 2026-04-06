@@ -7,9 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-## 求める学生像
-
-wip
+### For students
+安井研究室では、ものづくり、サービスの研究や統計解析に興味がある方を歓迎しています。
 
 {% assign sorted_education = site.education | sort: "importance" %}
 <div class="row row-cols-1 row-cols-md-3 g-2">

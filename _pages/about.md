@@ -14,12 +14,12 @@ profile:
     <p>TEL: 04-7124-1501（代表） 内線 3824</p>
 
 
-news: true #お知らせの表示
+news: false #お知らせの表示
 selected_papers: true # 主要論文
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

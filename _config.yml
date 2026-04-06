@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 安井 Laboratory # the website title (if blank, full name will be used instead)
+title: (wip)安井 Laboratory # the website title (if blank, full name will be used instead)
 first_name: 安井
 middle_name: 
 last_name: 清一
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  お問い合わせはメールにてお気軽にどうぞ。
 description:  "＜安井研の説明を簡潔に入力＞"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://labhp.github.io # the base hostname & protocol for your site
-baseurl: labhp # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: /labhp # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
