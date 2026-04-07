@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://labhp.github.io/labhp/sitemap.xml
+Sitemap: https://Yasuilab.github.io/sitemap.xml
