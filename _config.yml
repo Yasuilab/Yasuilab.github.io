@@ -6,6 +6,7 @@ title: "安井研究室" # the website title (if blank, full name will be used i
 first_name: 安井
 middle_name: 
 last_name: 清一
+author: "Yasuilab"
 contact_note: >
   お問い合わせはメールにてお気軽にどうぞ。
 description: "東京理科大学 情報理工学科 社会システムコース 安井研究室の公式サイトです。統計的品質管理を専門とし、臨床試験の計画・品質管理、多変量データ・時系列データによる異常検知、組成データ解析と管理図、サービスの分析など、ものづくりとデータ解析の融合による研究を行っています。"
