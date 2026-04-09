@@ -70,7 +70,7 @@ ninja.data = [{
               window.location.href = "/education/master/";
             },},{id: "education-セミナー",
           title: 'セミナー',
-          description: "セミナーの説明",
+          description: "安井研究室におけるセミナーの概要・テーマ・進め方",
           section: "Education",handler: () => {
               window.location.href = "/education/seminar/";
             },},{id: "news-詳細を含むニュース",
