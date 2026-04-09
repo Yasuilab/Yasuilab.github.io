@@ -1,7 +1,7 @@
 ---
 layout: page
 title: セミナー
-description: セミナーの説明
+description: 安井研究室におけるセミナーの概要・テーマ・進め方
 img: 
 importance: 1
 category: 
