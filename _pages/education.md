@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 ---
 
+### Courses
+
+[担当授業はこちら](https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?act=&kin=jug&diu=3981){:target="_blank"}
+
+---
+
 ### For students
 安井研究室では、ものづくり、サービスの研究や統計解析に興味がある方を歓迎しています。
 
@@ -16,3 +22,5 @@ nav_order: 4
     {% include education.liquid %}
   {% endfor %}
 </div>
+
+
