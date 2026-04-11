@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 東京理科大学 情報理工学科 社会システムコース 安井研究室
 
